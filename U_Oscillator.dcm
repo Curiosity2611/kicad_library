@@ -1,0 +1,36 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 32.768kHz
+D 32.768kHz Crystal Clock Oscillator
+K Crystal Clock Oscillator
+F https://www.mouser.in/datasheet/2/371/SiT1533_rev1.4_03202018-1324419.pdf
+$ENDCMP
+#
+$CMP ACO-xxxMHz
+D HCMOS Crystal Clock Oscillator, DIP14-style metal package
+K Crystal Clock Oscillator
+F http://www.conwin.com/datasheets/cx/cx030.pdf
+$ENDCMP
+#
+$CMP ASDK2-32.768KHZ-LR-T3
+D 32.768KHz Oscillator
+F https://abracon.com/Oscillators/ASDK.pdf
+$ENDCMP
+#
+$CMP ECS-327MVATX-3-CN-TR
+D 32.768KHz Oscillator
+$ENDCMP
+#
+$CMP GTXO-S14T
+D 3.3 & 5V Stratum 3 Sinewave TCXO, DIP14-style metal package
+K Crystal Clock Oscillator
+F http://www.golledge.com/pdf/products/tcxos/gtxos14.pdf
+$ENDCMP
+#
+$CMP TCXO-14
+D Temperature Compensated Crystal Clock Oscillator, DIP14-style metal package
+K Crystal Clock Oscillator
+F http://www.golledge.com/pdf/products/tcxos/gtxos14.pdf
+$ENDCMP
+#
+#End Doc Library

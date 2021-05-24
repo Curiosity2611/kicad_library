@@ -1,0 +1,253 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP +12V
+D Power symbol creates a global label with name "+12V"
+K power-flag
+$ENDCMP
+#
+$CMP 1V0
+D Power symbol creates a global label with name "1V0"
+K power-flag
+$ENDCMP
+#
+$CMP 1V2_HDMI
+D Power symbol creates a global label with name "1V2_HDMI"
+K power-flag
+$ENDCMP
+#
+$CMP 1V8
+D Power symbol creates a global label with name "1V8"
+K power-flag
+$ENDCMP
+#
+$CMP 1V8_AUDIO
+D Power symbol creates a global label with name "1V8_AUDIO"
+K power-flag
+$ENDCMP
+#
+$CMP 3V3
+D Power symbol creates a global label with name "3V3"
+K power-flag
+$ENDCMP
+#
+$CMP 3V3_HDMI
+D Power symbol creates a global label with name "3V3_HDMI"
+K power-flag
+$ENDCMP
+#
+$CMP 3V3_ST_LINK
+D Power symbol creates a global label with name "3V3_ST_LINK"
+K power-flag
+$ENDCMP
+#
+$CMP 5V_USB_ST_LINK
+D Power symbol creates a global label with name "5V_USB_ST_LINK"
+K power-flag
+$ENDCMP
+#
+$CMP 5V_VIN
+D Power symbol creates a global label with name "5V_VIN"
+K power-flag
+$ENDCMP
+#
+$CMP BST_IN
+D Power symbol creates a global label with name "BST_IN"
+K power-flag
+$ENDCMP
+#
+$CMP BST_OUT
+D Power symbol creates a global label with name "BST_OUT"
+K power-flag
+$ENDCMP
+#
+$CMP IOVDD
+D Power symbol creates a global label with name "IOVDD"
+K power-flag
+$ENDCMP
+#
+$CMP MPU_VDDA_1V8_REG
+D Power symbol creates a global label with name "MPU_VDDA_1V8_REG"
+K power-flag
+$ENDCMP
+#
+$CMP PMIC_LDO1
+D Power symbol creates a global label with name "PMIC_LDO1"
+K power-flag
+$ENDCMP
+#
+$CMP PMIC_LDO1_1V8
+D Power symbol creates a global label with name "PMIC_LDO1_1V8"
+K power-flag
+$ENDCMP
+#
+$CMP PMIC_LDO2_2V8
+D Power symbol creates a global label with name "PMIC_LDO2_2V8"
+K power-flag
+$ENDCMP
+#
+$CMP PMIC_LDO2_2V9
+D Power symbol creates a global label with name "PMIC_LDO2_2V9"
+K power-flag
+$ENDCMP
+#
+$CMP PMIC_LDO3_VTT_DDR
+D Power symbol creates a global label with name "PMIC_LDO3_VTT_DDR"
+K power-flag
+$ENDCMP
+#
+$CMP PMIC_LDO4_VDD_USB
+D Power symbol creates a global label with name "PMIC_LDO4_VDD_USB"
+K power-flag
+$ENDCMP
+#
+$CMP PMIC_LDO5
+D Power symbol creates a global label with name "PMIC_LDO5"
+K power-flag
+$ENDCMP
+#
+$CMP PMIC_LDO5_VDDA
+D Power symbol creates a global label with name "PMIC_LDO5_VDDA"
+K power-flag
+$ENDCMP
+#
+$CMP PMIC_LDO6_1V0
+D Power symbol creates a global label with name "PMIC_LDO6_1V0"
+K power-flag
+$ENDCMP
+#
+$CMP PMIC_LDO6_1V2
+D Power symbol creates a global label with name "PMIC_LDO6_1V2"
+K power-flag
+$ENDCMP
+#
+$CMP PMIC_VBUSOTG
+D Power symbol creates a global label with name "PMIC_VBUSOTG"
+K power-flag
+$ENDCMP
+#
+$CMP PMIC_VOUT1_VDD_CORE
+D Power symbol creates a global label with name "PMIC_VOUT1_VDD_CORE"
+K power-flag
+$ENDCMP
+#
+$CMP PMIC_VOUT2_VDD_DDR
+D Power symbol creates a global label with name "PMIC_VOUT2_VDD_DDR"
+K power-flag
+$ENDCMP
+#
+$CMP PMIC_VOUT3_VDD
+D Power symbol creates a global label with name "PMIC_VOUT3_VDD"
+K power-flag
+$ENDCMP
+#
+$CMP PMIC_VOUT4_3V3
+D Power symbol creates a global label with name "PMIC_VOUT4_3V3"
+K power-flag
+$ENDCMP
+#
+$CMP PMIC_VREF_DDR
+D Power symbol creates a global label with name "PMIC_VREF_DDR"
+K power-flag
+$ENDCMP
+#
+$CMP SW_IN
+D Power symbol creates a global label with name "SW_IN"
+K power-flag
+$ENDCMP
+#
+$CMP SW_OUT
+D Power symbol creates a global label with name "SW_OUT"
+K power-flag
+$ENDCMP
+#
+$CMP VBAT
+D Power symbol creates a global label with name "VBAT"
+K power-flag
+$ENDCMP
+#
+$CMP VBUS_1
+D Power symbol creates a global label with name "VBUS_1"
+K power-flag
+$ENDCMP
+#
+$CMP VBUS_2
+D Power symbol creates a global label with name "VBUS_2"
+K power-flag
+$ENDCMP
+#
+$CMP VBUS_USB_C_1
+D Power symbol creates a global label with name "VBUS_USB_C_1"
+K power-flag
+$ENDCMP
+#
+$CMP VBUS_USB_C_2
+D Power symbol creates a global label with name "VBUS_USB_C_2"
+K power-flag
+$ENDCMP
+#
+$CMP VDD
+D Power symbol creates a global label with name "VDD"
+K power-flag
+$ENDCMP
+#
+$CMP VDDA
+D Power symbol creates a global label with name "VDDA"
+K power-flag
+$ENDCMP
+#
+$CMP VDD_CORE
+D Power symbol creates a global label with name "VDD_CORE"
+K power-flag
+$ENDCMP
+#
+$CMP VDD_DDR
+D Power symbol creates a global label with name "VDD_DDR"
+K power-flag
+$ENDCMP
+#
+$CMP VDD_IO
+D Power symbol creates a global label with name "VDD_IO"
+K power-flag
+$ENDCMP
+#
+$CMP VDD_LDO5
+D Power symbol creates a global label with name "VDD_LDO5"
+K power-flag
+$ENDCMP
+#
+$CMP VDD_PA
+D Power symbol creates a global label with name "VDD_PA"
+K power-flag
+$ENDCMP
+#
+$CMP VDD_USB
+D Power symbol creates a global label with name "VDD_USB"
+K power-flag
+$ENDCMP
+#
+$CMP VDD_WX
+D Power symbol creates a global label with name "VDD_WX"
+K power-flag
+$ENDCMP
+#
+$CMP VREF+
+D Power symbol creates a global label with name "VREF+"
+K power-flag
+$ENDCMP
+#
+$CMP VREF_DDR
+D Power symbol creates a global label with name "VREF_DDR"
+K power-flag
+$ENDCMP
+#
+$CMP VREGVDD
+D Power symbol creates a global label with name "VREGVDD"
+K power-flag
+$ENDCMP
+#
+$CMP VTT_DDR
+D Power symbol creates a global label with name "VTT_DDR"
+K power-flag
+$ENDCMP
+#
+#End Doc Library

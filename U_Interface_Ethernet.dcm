@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP VSC8541XMV-02
+D Gigabit Ethernet PHY
+F https://www.mouser.in/datasheet/2/268/VSC8541RT_Single_Port_Radiation_Tolerant_Gigabit_E-1892177.pdf
+$ENDCMP
+#
+#End Doc Library

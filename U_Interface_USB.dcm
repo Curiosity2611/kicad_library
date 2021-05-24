@@ -1,0 +1,23 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STUSB1600AQTR
+D USB Interface IC USB Type-C controller
+F https://componentsearchengine.com/Datasheets/1/STUSB1600AQTR.pdf
+$ENDCMP
+#
+$CMP STUSB1602AQTR
+D USB-C Interface Controller
+F https://www.mouser.in/datasheet/2/389/dm00227288-1798553.pdf
+$ENDCMP
+#
+$CMP USB2412-DZK
+D USB Interface IC 2-Port USB 2.0 Hi-Speed Hub CNTRL
+F https://ww1.microchip.com/downloads/en/DeviceDoc/2412.pdf
+$ENDCMP
+#
+$CMP XR22404CG28TR-F
+D USB-A Hub Controller
+F https://www.mouser.in/datasheet/2/146/xr22404-1856004.pdf
+$ENDCMP
+#
+#End Doc Library

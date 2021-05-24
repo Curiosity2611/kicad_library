@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP S40FC004C1B2C00000
+D eMMC 4GB, 3.3 V, e.MMC Flash
+F http://www.skyhighmemory.com/download/dataSheet/002-01112.pdf
+$ENDCMP
+#
+#End Doc Library

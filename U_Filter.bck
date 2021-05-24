@@ -1,0 +1,12 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ECMF02-2AMX6
+D Common Mode Chokes / Filters ESD Mode Filter 6GHz USB 2.0 MIPI 8kV
+$ENDCMP
+#
+$CMP ECMF04-4HSWM10
+D EMI Filter & ESD Protector
+F https://www.st.com/resource/en/datasheet/ecmf04-4hswm10.pdf
+$ENDCMP
+#
+#End Doc Library

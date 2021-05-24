@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP OLD_OSD32MP157F-512M-BAA
+D Fully Integrated STM32MP1 System-in-Package
+K OSD32MP1, OSD32MP1SIP
+F https://octavosystems.com/docs/osd32mp15x-datasheet/
+$ENDCMP
+#
+$CMP OSD32MP157F-512M-BAA
+D Fully Integrated STM32MP1 System-in-Package
+K OSD32MP1, OSD32MP1SIP
+F https://octavosystems.com/docs/osd32mp15x-datasheet/
+$ENDCMP
+#
+$CMP STM32MP157CAC3
+D ARM Dual Cortex-A7 800 MHz + Cortex -M4 MPU
+K STM32MP1, ST MPU, MPU
+F https://www.st.com/resource/en/datasheet/stm32mp157c.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 150066RG74000
+D Dual LED, Red and Green 
+K LED diode bicolor dual
+F https://www.mouser.in/datasheet/2/445/150066RG74000-1947354.pdf
+$ENDCMP
+#
+#End Doc Library

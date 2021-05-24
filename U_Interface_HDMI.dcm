@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TDA19988BHN_C1,557
+D HDMI 1.4a transmitter
+F https://www.mouser.in/datasheet/2/302/NXP_TDA19988-1189083.pdf
+$ENDCMP
+#
+#End Doc Library

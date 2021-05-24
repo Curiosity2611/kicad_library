@@ -1,0 +1,65 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2-1734248-0
+D 1mm Pitch 20 Way Straight Female FPC Connector
+F https://componentsearchengine.com/Datasheets/1/2-1734248-0.pdf
+$ENDCMP
+#
+$CMP 503398-1892
+D uSD Connector
+$ENDCMP
+#
+$CMP 87583-0010BHLF
+D USB Type A, Receptacle
+F http://www.amphenol-icc.com/media/wysiwyg/files/drawing/87583.pdf
+$ENDCMP
+#
+$CMP DF40C-24DP-0.4V(51)
+D Board to Board & Mezzanine Connectors 24P SMT HEADER NO FITTING, NO BOSS
+F http://www.hirose.co.jp/cataloge_hp/ed_DF40_20140305.pdf
+$ENDCMP
+#
+$CMP DF40C-70DP-0.4V(51)
+D Board to Board & Mezzanine Connectors 0.4MM 70P HDR SMT GOLD
+F https://www.mouser.in/datasheet/2/185/DF40_CL0595_9327_0_00_2d-1613490.pdf
+$ENDCMP
+#
+$CMP DF40C_2.0_-24DS-0.4V_51
+D RCPT SMT 24 pin
+F https://componentsearchengine.com/Datasheets/1/DF40C(2.0)-24DS-0.4V(51).pdf
+$ENDCMP
+#
+$CMP DF40C_2.0_-70DS-0.4V_51_
+D RCPT, 70POS, 2ROW
+F https://www.digikey.com/en/products/detail/hirose-electric-co-ltd/DF40C-2-0-70DS-0-4V-51/2530296
+$ENDCMP
+#
+$CMP RAHHD19TR
+D HDMI Display Port
+F https://www.switchcraft.com/Drawings/RAHHD19TR_CD.pdf
+$ENDCMP
+#
+$CMP RJLSE4038101
+D Ethernet Connectors 8P8C Shielded 1 Port
+F https://componentsearchengine.com//RJLSE4038101.pdf
+$ENDCMP
+#
+$CMP UJ2-MIBH-G-SMT-TR
+D Micro B type, 5 pin, USB Connectors
+F https://www.mouser.in/datasheet/2/670/uj2_mibh_g_smt_tr-2306717.pdf
+$ENDCMP
+#
+$CMP USB4085-GF-A_REVA
+D USB-C 16 Data
+$ENDCMP
+#
+$CMP USB4125-GF-A_REVA
+D USB-C Power Connector
+$ENDCMP
+#
+$CMP WP7A-S026VA1-R8000
+D Board to Board & Mezzanine Connectors 0.4MM 26P
+F https://www.mouser.in/datasheet/2/206/B-0228-3E_WP7-1274120.pdf
+$ENDCMP
+#
+#End Doc Library

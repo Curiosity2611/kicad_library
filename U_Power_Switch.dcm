@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MIC2026A-2YM-TR
+D USB High-Side Power Switch
+F https://www.mouser.in/datasheet/2/268/MIC2026_MIC2076_Dual_Channel_Power_Distribution_Sw-1923496.pdf
+$ENDCMP
+#
+#End Doc Library

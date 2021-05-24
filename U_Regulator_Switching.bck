@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SIC403ACD-T1-GE3
+D Switching Voltage Regulators 6A 3V to 28V Microbuck Sync Rgltr
+F https://www.mouser.in/datasheet/2/427/sic403abcd-1764484.pdf
+$ENDCMP
+#
+#End Doc Library
