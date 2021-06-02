@@ -1,11 +1,5 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP STPMIC1APQR
-D Power management IC for micro processor units
-K STPMIC, ST PMIC
-F https://www.st.com/resource/en/datasheet/stpmic1.pdf
-$ENDCMP
-#
 $CMP STPMIC1BPQR
 D PMIC for STM32MP1
 K STPMIC, ST PMIC
