@@ -80,13 +80,13 @@ D Power symbol creates a global label with name "PMIC_LDO1_1V8"
 K power-flag
 $ENDCMP
 #
-$CMP PMIC_LDO2_2V5
-D Power symbol creates a global label with name "PMIC_LDO2_2V5"
+$CMP PMIC_LDO2_2V8
+D Power symbol creates a global label with name "PMIC_LDO2_2V8"
 K power-flag
 $ENDCMP
 #
-$CMP PMIC_LDO2_2V8
-D Power symbol creates a global label with name "PMIC_LDO2_2V8"
+$CMP PMIC_LDO2_2V9
+D Power symbol creates a global label with name "PMIC_LDO2_2V9"
 K power-flag
 $ENDCMP
 #
@@ -102,6 +102,11 @@ $ENDCMP
 #
 $CMP PMIC_LDO5
 D Power symbol creates a global label with name "PMIC_LDO5"
+K power-flag
+$ENDCMP
+#
+$CMP PMIC_LDO5_2V9
+D Power symbol creates a global label with name "PMIC_LDO5_2V9"
 K power-flag
 $ENDCMP
 #
